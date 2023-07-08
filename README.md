@@ -288,19 +288,6 @@ Check out our [Netlify deployment documentation](https://docs.netlify.com/) for 
 
 ##### Backend (server)
 
-##### Deploy on Railway
 
-The easiest way to deploy your server is to use the [Railway Platform](https://railway.app/) from the creators of Next.js.
-
-Check out our [Railway deployment documentation](https://docs.railway.app/deploy/deployments) for more details.
-
-## :handshake: Contact
-
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/Full-Stack-Movie-Application.git](https://github.com/SashenJayathilaka/Full-Stack-Movie-Application.git)
-
-<hr />
-<br />
 
 <div align="center">Don't forget to leave a star ⭐️</div>
