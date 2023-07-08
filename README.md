@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/99184393/223374639-56c53106-86d4-4a36-be0b-6507ce869119.png" alt="logo" width="200" height="auto" />
 
-  <h1>Full Stack Movie Application with NEXT.JS 13!</h1>
 
   <p>
 Full Stack Movie Application with NEXT.JS 13!(Next.js 13, mongodb, node js, NextAuth.js v4, Tailwind CSS, framer-motion, TMDB Api, Google Authentication, primary information about a movies, Users can Add Bookmark in favorite actors and movies)
